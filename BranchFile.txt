@@ -1,1 +1,3 @@
-## kali membuat branch pada repository
+## kali ini membuat branch pada repository
+
+nama branch-nya saya biarkan secara default
