@@ -1,3 +1,4 @@
 # tutorial-github
 Tutorial-github
 
+GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer
