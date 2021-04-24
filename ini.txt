@@ -1,3 +1,4 @@
 Version Control Management menyimpan setiap perubahan atau snapshot pada source code
 ----------------Apa Saja yang akan dipelajari pada tutorial kali ini------------
 # Membuat Repository digithub
+# melakukan Commit pada github
