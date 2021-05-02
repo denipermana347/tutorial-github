@@ -4,3 +4,4 @@ Version Control Management menyimpan setiap perubahan atau snapshot pada source 
 
 # melihat history perubahan pada file
 # membuat branch 
+# melakukan remote 
